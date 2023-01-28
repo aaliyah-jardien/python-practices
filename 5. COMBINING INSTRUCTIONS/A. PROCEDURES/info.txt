@@ -1,0 +1,8 @@
+
+Learn how to combine instructions into functions
+
+Learn how to make use of these functions
+
+Learn how to pass relevant data to functions
+
+

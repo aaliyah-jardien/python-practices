@@ -1,0 +1,8 @@
+
+Learn how to call functions from other functions
+
+Learn various ways to do function composition
+
+Get exposed to recursion
+
+

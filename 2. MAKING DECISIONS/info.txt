@@ -1,0 +1,7 @@
+
+Using conditionals in Python
+- Learn about booleans, conditions and logical expressions
+
+Deciding on program flow based on conditional logic
+- Learn about if..else statements to control the flow (branching).
+

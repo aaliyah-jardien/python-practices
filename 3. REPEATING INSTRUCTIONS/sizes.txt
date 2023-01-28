@@ -1,0 +1,12 @@
+how many rows do you want in the pattern
+
+input from user
+num = int(input("Number of rows: "))
+
+function parameter
+def pattern(num):
+
+num in this case is the parameter, and whatever value the user inputs
+will be passed through the function
+
+makes sense ;)

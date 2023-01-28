@@ -1,0 +1,8 @@
+
+Learn how we can get values back from functions for other instructions to use
+
+Evolve our understanding of the data we pass to functions
+
+Think about how much work a single function must do
+
+

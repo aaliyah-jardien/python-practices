@@ -1,0 +1,19 @@
+# What's the difference between a for loop and a while loop in Python?
+
+# (A "for loop" runs through all the statements multiple times,
+# whereas the "while loop" only runs through the condition that which is true.) no
+
+# for loops: Iterate over a given sequence, such as a list (i.e., for elem in list). Concludes upon reaching the end of the sequence.
+
+# while loops: Iterates as long as a condition is true (i.e., while True). Concludes when the condition is no longer true.
+
+# A break statement may be used to exit out of either type of loop.
+
+
+# How can you determine the count of elements in a list in Python?
+# (You can use a range, to set how many elements should be listed.) no
+
+# The len() function can be used for this purpose.
+
+# a_lst = ["a", "b", "c", "d"]
+# print(len(a_lst)) # Prints 4

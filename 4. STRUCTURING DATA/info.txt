@@ -1,0 +1,11 @@
+learn about different types that can hold multiple values in a structured way:
+
+Tuples
+
+Lists
+
+Sets
+
+Maps
+
+
