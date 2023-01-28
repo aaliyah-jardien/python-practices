@@ -1,0 +1,12 @@
+date: 13 dec
+
+In this chapter we will:
+
+    introduce lambda functions (or anonymous functions).
+
+    learn how to use the built-in map, filter or reduce with lambda functions to process data collections efficiently.
+
+    learn about list comprehensions and how that can get rid of complex nested loops.
+
+    look at variations of list comprehensions, e.g. dictionary comprehensions.
+
