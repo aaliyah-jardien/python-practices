@@ -26,3 +26,4 @@ def is_even(num_list):
             break
     print(flag)
 is_even(num_list)
+
